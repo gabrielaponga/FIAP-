@@ -1,0 +1,24 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  margin-top: 50px;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    color: #800080;
+}
+
+.btn-primary {
+    background-color: #440444;
+    border-color: #007bff;
+}
+.form-control {
+    color: #DA70D6
+}
+.login-social {
+    border-color: #f8f9fa;
+    background-color: #f8f9fa
+}
